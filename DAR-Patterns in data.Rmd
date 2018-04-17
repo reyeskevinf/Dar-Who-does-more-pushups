@@ -41,7 +41,7 @@ For my graphical method, I will use a boxplot to show the spread of the discrete
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
-
+In my results, we are going to see through a boxplot that skill players preform more pushups on average than line players. The t test will show us if there are significant differences between these groups. 
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
@@ -61,6 +61,7 @@ In the t, test the p-value computed was 6.651e-10 which is approximatley 0.00000
 
 # Inferential Results
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
+
 <strike>$H:_0$ There is no significant difference between the average of pushups preformed by line players and skill players.</strike>
 
 $H:_A$ There is significant differences between the average of pushups preformed by line players and skill players.
@@ -70,3 +71,4 @@ In the t.test, the p-value is less than than 0.05 which suggests to us that ther
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+In this study to find out who does more pushups, averages were collected from 30 players, then the data was used to construct a box plot to visually compare the groups: the skill players preformed better than linemen. After, a t test was conducted to test the significance of the averages of both groups. It computed a p-value less than 0.05, which suggested that there is evidence for the alternative hypothesis--and fail to accept the null as true. The alternative hypothesis is there is significant differences between the average of pushups preformed by line players and skill players. Therefore, we can conclude that the answe to the research question is that skill players do more pushups, on average.
