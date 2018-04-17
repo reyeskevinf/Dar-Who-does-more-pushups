@@ -33,7 +33,7 @@ Our Research Question is:
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-For my graphical method, I will use a boxplot to show the spread of the discrete data (pushups) to determine which group has the highest data set. As for numerics, computing the mean will give us the avrages of the groups to compare, and conducting the t test will tell us if these groups prform differently from eachother.
+For my graphical method, I will use a boxplot to show the spread of the discrete data (pushups) to determine which group has the highest data set. As for numerics, conducting the t test will tell us if these groups prform differently from eachother.
 
 
 
