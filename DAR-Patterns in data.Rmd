@@ -54,11 +54,7 @@ Our Research Question is:
 # Inferential Results
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
  
-<strike>$H:_0$ There is no significant difference between the average of pushups preformed by line players and skill players.</strike>
 
-$H:_A$ There is significant differences between the average of pushups preformed by line players and skill players.
-
-In the t.test, the p-value is less than than 0.05 which suggests to us that there are sigificant diffrences between the data in both groups, and we have evidence for the alterative hypothesis. In addition, we fail to accept the null hypothesis as true. 
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
