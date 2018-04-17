@@ -1,6 +1,6 @@
 ---
 title: "Who does more pushups"
-author: "your name"
+author: "Kevin Reyes"
 date: "March 8"
 output: html_document
 ---
@@ -34,10 +34,6 @@ The data collected by the MAT 111 students is for 30 players, 22 of them are ski
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 For my graphical method, I will use a boxplot to show the spread of the discrete data (pushups) to determine which group has the highest data set. As for numerics, conducting the t test will tell us if these groups prform differently from eachother.
-
-
-
-
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
