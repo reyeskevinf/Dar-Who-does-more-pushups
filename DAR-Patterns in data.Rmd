@@ -16,7 +16,7 @@ require(tigerstats)
 
 Several years ago some MAT 111 students who were on the footbal team conducted a study of their team-mates.  The results are contained in the data frame `pushups` in the `tigerstats` package.
 
-```{r eval=FALSE}
+```{r include=FALSE}
 data(pushups)
 View(pushups)
 help(pushups)
@@ -30,7 +30,7 @@ Our Research Question is:
 
   >Who does more pushups, on average: a line player or a skill player?
 
-
+The data collected by the MAT 111 students is for 30 players, 22 of them are skill players and 8 of them are line players. They recorded their weights and the amount of pushups they did under 2 minutes.
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
