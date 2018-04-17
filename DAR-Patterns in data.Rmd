@@ -45,7 +45,11 @@ Our Research Question is:
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
+```{r include=FALSE}
+boxplot(pushups ~ position, data = pushups)
+```
 
+In the box the line and skill players are divded into two catgories. We can see that the skill players have a higher midspread (box) of pushups, whereas the line players have a lower midspread (box) of pushups--including the minnimum at 6. The skill players show an outlier with the dot, which is the max at 108.
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
